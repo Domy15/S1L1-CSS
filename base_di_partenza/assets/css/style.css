@@ -318,16 +318,13 @@ footer a {
     iframe, section {
         margin: 0;
         width: 49.7%;
-        display: inline-block;
+        float: left;
+        height: 16em;
     }
 
     section h2 {
         font-size: large;
         padding: 0;
-    }
-
-    iframe {
-        height: 16em;
     }
 
     input {
